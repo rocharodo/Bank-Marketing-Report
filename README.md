@@ -281,6 +281,14 @@ Outcome per year Resampled data
 </table>
 </div>
 
+<h2>Key Findings</h2>
+<p>Our analysis reveals:</p>
+<ul>
+  <li>Data clustering between May 2008 and April 2009, potentially causing temporal imbalance.</li>
+  <li>A pronounced outcome imbalance during this period, with a large proportion of negative outcomes.</li>
+  <li>No data available for January and February.</li>
+  <li>Dates significantly affect key economic indicators, necessitating date-specific values for accurate analysis.</li>
+</ul>
 </div>
 
 <div id="Correlation">
