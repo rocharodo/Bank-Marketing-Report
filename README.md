@@ -64,7 +64,7 @@ Thus, this input should only be included for benchmark purposes and should be di
 <p>Result: The dataset now has dates that go from May 2008 to November 2010 and the month and year features were dropped.</p>
 <p>In the following graph, we can see the distribution of the outcome variable per month and year</p>
 <div style="text-align:center;">
-<img height="500" src="ypermonthandyear.png" />
+<img height="500" src="images/ypermonthandyear.png" />
 </div>
 <article>
 <p>
@@ -121,7 +121,7 @@ Whilst incorporating the date feature helped to sort and visualise the data in c
 </table>
 </td>
 <td>
-<img width="250" src="pie1.png" />
+<img width="250" src="images/pie1.png" />
 </td>
 </tr>
 </tbody>
@@ -146,7 +146,7 @@ Improved model performance potential
 </ul>
 
 <div style="text-align:center;">
-<img width="300" src="pie2.png">
+<img width="300" src="images/pie2.png">
 </div>
 
 
@@ -204,7 +204,7 @@ Improved model performance potential
 </table>
 </td>
 <td>
-<img width="300" src="previous.png" />
+<img width="300" src="images/previous.png" />
 </td>
 </tr>
 
@@ -233,7 +233,7 @@ Improved model performance potential
 <h2>Feature Distribution</h2>
 <p>The following graphs illustrate the state of each feature:</p>
 <div style="text-align:center;">
-<img width="750" src="histo_cleansed.png" />
+<img width="750" src="images/histo_cleansed.png" />
 </div>
 </div>
 
@@ -271,10 +271,10 @@ Outcome per year Resampled data
 <tbody>
 <tr>
 <td>
-<img width="500" src="Totalyperyear.png" />
+<img width="500" src="images/Totalyperyear.png" />
 </td>
 <td>
-<img width="500" src="ycountresampled.png" />
+<img width="500" src="images/ycountresampled.png" />
 </td>
 </tr>
 </tbody>
@@ -346,7 +346,7 @@ Outcome per year Resampled data
 </div>
 </td>
 <td>
-<img width="400" src="mod17_corr.png" />
+<img width="400" src="images/mod17_corr.png" />
 </td>
 </tr>
 </tbody>
